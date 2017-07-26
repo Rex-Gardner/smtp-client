@@ -6,7 +6,7 @@
 
 using namespace std;
 
-#pragma comment(lib, "Ws2_32.lib")	//TODO for UNIX
+#pragma comment(lib, "Ws2_32.lib")
 
 #define CLIENT_VERSION "v1.0"
 #define MAX_SMTP_MESSAGE_STRING_LENGTH 998	//without CRLF symbols
